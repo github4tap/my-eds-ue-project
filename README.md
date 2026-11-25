@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--my-eds-ue-project--github4tap.aem.page/
+- Live: https://main--my-eds-ue-project--github4tap.aem.live/
 
 ## Documentation
 
